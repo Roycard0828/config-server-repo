@@ -6,7 +6,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/school_system
     username: postgres
-    password: postgresssss
+    password: postgres
   jpa:
     properties:
       hibernate:
